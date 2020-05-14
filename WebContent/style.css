@@ -1,0 +1,23 @@
+div h1, h3, h4 {
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+div h2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	list-style: none;
+}
+
+ul  li {
+	padding: 2px 5px;
+}
